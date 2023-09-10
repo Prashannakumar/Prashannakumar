@@ -18,7 +18,7 @@
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Prashannakumar&theme=radical&date_format=M%20j%5B%2C%20Y%5D" width="48%"/>
 </p>
 
-https://gpvc.arturio.dev/Prashannakumar
+<img align="center" src="https://gpvc.arturio.dev/Prashannakumar"/>
 
 <!--
 **Prashannakumar/Prashannakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
