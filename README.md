@@ -1,8 +1,6 @@
 
 ### Hi there 👋, I'm Prashanna Kumar
 
-<hr />
-
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e470ymvpa1sz3t6qxo66nz03gigsjvo58k6jsevr0ea&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="500"/>
 </div>
@@ -12,6 +10,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=Prashannakumar
+
 
 <!--
 **Prashannakumar/Prashannakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
