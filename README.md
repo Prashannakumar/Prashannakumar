@@ -1,9 +1,8 @@
-
 ### Hi there 👋, I'm Prashanna Kumar
 
-<div id="header" align="center">
+<p align="center">
   <img src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e470ymvpa1sz3t6qxo66nz03gigsjvo58k6jsevr0ea&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="500"/>
-</div>
+</p>
 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/prashanna-kumar-455925172">
