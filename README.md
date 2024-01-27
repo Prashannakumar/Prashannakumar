@@ -4,7 +4,8 @@
   <img src="https://media3.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif?cid=ecf05e470ymvpa1sz3t6qxo66nz03gigsjvo58k6jsevr0ea&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="500"/>
 
   <h2 align="center">
-    Frontend Developer at <a href="https://www.cirantait.com/">Ciranta</a>
+<!--     Frontend Developer at <a href="https://www.cirantait.com/">Ciranta</a> -->
+    Frontend Developer at <a href="https://www.capgemini.com/">Capgemini</a>
   </h2>
   <p align="center">Versatile Front End Developer, Specialized in JavaScript</p>
   
