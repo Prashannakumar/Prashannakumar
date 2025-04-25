@@ -6,6 +6,7 @@
   <h2 align="center">
 <!-- Frontend Developer at <a href="https://www.cirantait.com/">Ciranta</a> 
  Frontend Developer at <a href="https://www.capgemini.com/">Capgemini</a> -->
+ Senior Software Developer at <a href="https://www.pwc.in/">PwC</a>
 
      Senior Software Developer at <a href="https://www.pwc.in/">PwC</a>
   </h2>
