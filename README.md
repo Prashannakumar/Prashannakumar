@@ -7,8 +7,6 @@
 <!-- Frontend Developer at <a href="https://www.cirantait.com/">Ciranta</a> 
  Frontend Developer at <a href="https://www.capgemini.com/">Capgemini</a> -->
  Senior Software Developer at <a href="https://www.pwc.in/">PwC</a>
-
-     Senior Software Developer at <a href="https://www.pwc.in/">PwC</a>
   </h2>
   <p align="center">Versatile Front End Developer, Specialized in JavaScript</p>
   
