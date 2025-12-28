@@ -52,8 +52,8 @@
 
 ### :fire: My Stats :
 <p float="left">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashannakumar&show_icons=true&count_private=true&theme=dark" width="48%"/>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Prashannakumar&theme=dark&date_format=M%20j%5B%2C%20Y%5D" width="51%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Prashannakumar&show_icons=true&count_private=true&theme=dark"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Prashannakumar&theme=dark&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prashannakumar&layout=compact" />
